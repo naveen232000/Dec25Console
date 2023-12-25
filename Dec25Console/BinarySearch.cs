@@ -59,7 +59,6 @@ namespace Dec25Console
         
         static void Main(string[] args)
         {
-
             BinarySearch binarySearch = new BinarySearch();
             int[] arr = binarySearch.GetArray();
             while (true)
